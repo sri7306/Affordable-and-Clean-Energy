@@ -1,0 +1,70 @@
+body{
+     background-color:orange; 
+}
+.header{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+}
+.logo{
+    margin: 10px 0px 0px 15px;
+}
+.menu ul{
+    display: flex;
+    list-style: none;
+}
+.search input{
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    width: 500px;
+    color: violet;
+}
+#account h5
+{
+    margin-top: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    color: white;
+    background-color: black;
+}
+.quotes h3
+{
+    text-align: center ;
+    margin-top: 30px;
+}
+.menu ul
+{
+    margin: 10px 10px 10px 10px;
+    justify-content: space-between;
+}
+#abcd 
+{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.greeting h1:hover
+{
+    color:white;
+}
+.footer 
+{
+   display: flex;
+   justify-content: center;
+   gap: 35px;
+}
+#rdx  
+ {
+   margin-left: 620px;
+   }
+   .header .bell
+   {
+    margin-top: 30px;
+   }
